@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianGuretto
-- 👀 I’m interested in Python coding and cyber security
-- 🌱 I’m currently learning Python and Computer Science
+- 👀 I’m interested in Python, C++ coding and cyber security
+- 🌱 I’m currently learning Python, C++ and Computer Science as a whole.
 - 💞️ I’m looking to collaborate on beginner-intermediate coding projects
 
 <!---
