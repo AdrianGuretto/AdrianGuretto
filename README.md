@@ -11,6 +11,7 @@ I started my coding journey in February of 2022 with Python. Personally, I have 
 
 ## Contacts
 **LinkedIn**: https://www.linkedin.com/in/vladimirusmith/
+
 **Email**: theonepercenterprogram@gmail.com
 
 <!---
