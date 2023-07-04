@@ -2,7 +2,7 @@
 
 This is a place where I create, post, and then realize how much I can improve in my code, then do it all over again. I try to apply everything I have learned into real applications that will serve a purpose. By doing so, I share my path of improvement as well as contribute to the IT community.
 
-* _👨‍✈️ 18 y.o. Backend C++ developer_
+* _👨‍✈️ 18 y.o. Backend C++/Python developer_
 * _✍️ Presently learning C++, Networking protocols, and Linux_
 * _🪖 Aspiring to become an IT-security specialist_
 
